@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>H24_jpg.rf.7b186d18aee436d69a559e3b7b03236f.jpg</filename>
+	<path>C:\Users\jasmin\Documents\RODPYTHON3.8\.venv\Scripts\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\H24_jpg.rf.7b186d18aee436d69a559e3b7b03236f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>402</width>
+		<height>402</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>150</ymin>
+			<xmax>378</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

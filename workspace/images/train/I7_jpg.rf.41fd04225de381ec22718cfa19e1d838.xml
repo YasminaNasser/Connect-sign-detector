@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>I7_jpg.rf.41fd04225de381ec22718cfa19e1d838.jpg</filename>
+	<path>C:\Users\jasmin\Documents\RODPYTHON3.8\.venv\Scripts\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\I7_jpg.rf.41fd04225de381ec22718cfa19e1d838.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>66</ymin>
+			<xmax>262</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

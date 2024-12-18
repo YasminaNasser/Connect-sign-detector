@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>G16_jpg.rf.20bbfcc529e2547722dfaf6913421a1c.jpg</filename>
+	<path>C:\Users\jasmin\Documents\RODPYTHON3.8\.venv\Scripts\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\G16_jpg.rf.20bbfcc529e2547722dfaf6913421a1c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>410</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>G</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>160</ymin>
+			<xmax>360</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>
